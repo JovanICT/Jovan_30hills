@@ -1,0 +1,16 @@
+ul{
+	list-style: none;
+}
+
+.user_selected{
+	background-color:#d9d9d9;
+}
+
+.list_holder{
+	width: 25%;
+	float: left;
+}
+
+#users_list li{
+	cursor: pointer;
+}
